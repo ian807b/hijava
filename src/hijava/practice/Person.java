@@ -2,7 +2,7 @@ package hijava.practice;
 
 public class Person {
 
-  public static final String KOREAN = "사람";
+  public static final String KOREAN = "Man";
   public String name;
   protected String tel; // Shared among the same package
   private String ssn1;
